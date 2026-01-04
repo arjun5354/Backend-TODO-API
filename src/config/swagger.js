@@ -34,8 +34,8 @@ const swaggerJsDoc = {
           content: {
             "application/json": {
               example: {
-                name: "Sayntika",
-                email: "sayntika@gmail.com",
+                name: "Arjun",
+                email: "arjun@gmail.com",
                 password: "password123"
               }
             }
@@ -54,7 +54,7 @@ const swaggerJsDoc = {
           content: {
             "application/json": {
               example: {
-                email: "sayntika@gmail.com",
+                email: "arjun@gmail.com",
                 password: "password123"
               }
             }
